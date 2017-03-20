@@ -39,7 +39,7 @@
      id="namedview27"
      showgrid="false"
      inkscape:zoom="2.6055046"
-     inkscape:cx="54.5"
+     inkscape:cx="14.200704"
      inkscape:cy="12"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -102,24 +102,24 @@
      id="layer1"
      inkscape:label="Layer 1">
     <rect
-       style="fill:#ffffff;fill-opacity:1"
+       style="fill:#000080;fill-opacity:1;stroke-width:0.95697457"
        id="rect32"
-       width="111.30282"
-       height="25.714788"
-       x="0"
-       y="-0.17957747" />
+       width="110.15142"
+       height="23.795774"
+       x="1.0708e-007"
+       y="0.20422535" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot34"
-       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;"
        transform="translate(13.433098,3.838028)"><flowRegion
          id="flowRegion36"
-         style="font-size:16px;fill:#000080"><rect
+         style="font-size:16px;fill:#00ffff;"><rect
            id="rect38"
            width="74.073952"
            height="19.957747"
            x="0"
            y="-0.17957747"
-           style="font-size:16px;fill:#000080" /></flowRegion><flowPara
+           style="font-size:16px;fill:#00ffff;" /></flowRegion><flowPara
          id="flowPara40">Template</flowPara></flowRoot>  </g>
 </svg>
